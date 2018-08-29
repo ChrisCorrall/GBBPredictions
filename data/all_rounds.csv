@@ -1,0 +1,951 @@
+,baker,season,round,outcome,eliminated,star baker,passed,favourite,least favourite,runner up,winner
+0,John,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+1,Brendan,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+2,James,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+3,Danny,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+4,Cathryn,3,1," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+5,Ryan,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+6,Sarah-Jane,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+7,Manisha,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+8,Stuart,3,1," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+9,Victoria,3,1, Baker was the Star Baker,False,True,False,False,False,False,False
+10,Peter,3,1, Baker got through to the next round,False,False,True,False,False,False,False
+11,Natasha,3,1, Baker was eliminated,True,False,False,False,False,False,False
+12,Frances,4,1,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+13,Kimberley,4,1,Baker got through to the next round,False,False,True,False,False,False,False
+14,Ruby,4,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+15,Beca,4,1,Baker got through to the next round,False,False,True,False,False,False,False
+16,Christine,4,1,Baker got through to the next round,False,False,True,False,False,False,False
+17,Glenn,4,1,Baker got through to the next round,False,False,True,False,False,False,False
+18,Howard,4,1,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+19,Robert,4,1,Baker was the Star Baker,False,True,False,False,False,False,False
+20,Ali,4,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+21,Deborah,4,1,Baker got through to the next round,False,False,True,False,False,False,False
+22,Mark,4,1,Baker got through to the next round,False,False,True,False,False,False,False
+23,Lucy,4,1,Baker got through to the next round,False,False,True,False,False,False,False
+24,Toby,4,1,Baker was eliminated,True,False,False,False,False,False,False
+25,Nancy,5,1,Baker was the Star Baker.,False,True,False,False,False,False,False
+26,Luis,5,1,Baker got through to the next round.,False,False,True,False,False,False,False
+27,Richard,5,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+28,Chetna,5,1,Baker got through to the next round.,False,False,True,False,False,False,False
+29,Martha,5,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+30,Kate,5,1,Baker got through to the next round.,False,False,True,False,False,False,False
+31,Norman,5,1,Baker got through to the next round.,False,False,True,False,False,False,False
+32,Diana,5,1,Baker got through to the next round.,False,False,True,False,False,False,False
+33,Iain,5,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+34,Jordan,5,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+35,Enwezor,5,1,Baker got through to the next round.,False,False,True,False,False,False,False
+36,Claire,5,1,Baker was eliminated.,True,False,False,False,False,False,False
+37,Jo,2,1," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+38,Holly,2,1, Baker was the Star Baker,False,True,False,False,False,False,False
+39,Mary-Anne,2,1, Baker got through to the next round,False,False,True,False,False,False,False
+40,Janet,2,1, Baker got through to the next round,False,False,True,False,False,False,False
+41,Yasmin,2,1, Baker got through to the next round,False,False,True,False,False,False,False
+42,Jason,2,1, Baker got through to the next round,False,False,True,False,False,False,False
+43,Robert,2,1," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+44,Ben,2,1, Baker got through to the next round,False,False,True,False,False,False,False
+45,Ian,2,1, Baker got through to the next round,False,False,True,False,False,False,False
+46,Urvashi,2,1, Baker got through to the next round,False,False,True,False,False,False,False
+47,Simon,2,1," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+48,Keith,2,1, Baker was eliminated,True,False,False,False,False,False,False
+49,Candice,7,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+50,Andrew,7,1,Baker got through to the next round.,False,False,True,False,False,False,False
+51,Jane,7,1,Baker was the Star Baker.,False,True,False,False,False,False,False
+52,Selasi,7,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+53,Benjamina,7,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+54,Tom,7,1,Baker got through to the next round.,False,False,True,False,False,False,False
+55,Rav,7,1,Baker got through to the next round.,False,False,True,False,False,False,False
+56,Val,7,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+57,Kate,7,1,Baker got through to the next round.,False,False,True,False,False,False,False
+58,Michael,7,1,Baker got through to the next round.,False,False,True,False,False,False,False
+59,Louise,7,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+60,Lee,7,1,Baker was eliminated.,True,False,False,False,False,False,False
+61,Sophie,8,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+62,Kate,8,1,Baker got through to the next round.,False,False,True,False,False,False,False
+63,Steven,8,1,Baker was the Star Baker.,False,True,False,False,False,False,False
+64,Stacey,8,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+65,Liam,8,1,Baker got through to the next round.,False,False,True,False,False,False,False
+66,Yan,8,1,Baker got through to the next round.,False,False,True,False,False,False,False
+67,Julia,8,1,Baker got through to the next round.,False,False,True,False,False,False,False
+68,James,8,1,Baker got through to the next round.,False,False,True,False,False,False,False
+69,Tom,8,1,Baker got through to the next round.,False,False,True,False,False,False,False
+70,Flo,8,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+71,Chris,8,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+72,Peter,8,1,Baker was eliminated.,True,False,False,False,False,False,False
+73,Edd,1,1, Baker got through to the next round,False,False,True,False,False,False,False
+74,Ruth,1,1, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+75,Miranda,1,1, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+76,Jasminder,1,1, Baker got through to the next round,False,False,True,False,False,False,False
+77,David,1,1," Baker was one of the judges' least favourite bakers that week, but was not eliminated",False,False,False,False,True,False,False
+78,Jonathan,1,1, Baker got through to the next round,False,False,True,False,False,False,False
+79,Annetha,1,1, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+80,Louise,1,1," Baker was one of the judges' least favourite bakers that week, but was not eliminated",False,False,False,False,True,False,False
+81,Lea,1,1, Baker was eliminated,True,False,False,False,False,False,False
+82,Mark,1,1, Baker was eliminated,True,False,False,False,False,False,False
+83,Nadiya,6,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+84,Ian,6,1,Baker got through to the next round.,False,False,True,False,False,False,False
+85,Tamal,6,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+86,Flora,6,1,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+87,Paul,6,1,Baker got through to the next round.,False,False,True,False,False,False,False
+88,Mat,6,1,Baker got through to the next round.,False,False,True,False,False,False,False
+89,Alvin,6,1,Baker got through to the next round.,False,False,True,False,False,False,False
+90,Ugnė,6,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+91,Sandy,6,1,Baker got through to the next round.,False,False,True,False,False,False,False
+92,Dorret,6,1,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+93,Marie,6,1,Baker was the Star Baker.,False,True,False,False,False,False,False
+94,Stu,6,1,Baker was eliminated.,True,False,False,False,False,False,False
+95,John,3,10, Baker was the series winner,False,False,False,False,False,False,True
+96,Brendan,3,10, Baker was the series runner-up,False,False,False,False,False,True,False
+97,James,3,10, Baker was the series runner-up,False,False,False,False,False,True,False
+98,Danny,3,10,out,False,False,False,False,False,False,False
+99,Cathryn,3,10,out,False,False,False,False,False,False,False
+100,Ryan,3,10,out,False,False,False,False,False,False,False
+101,Sarah-Jane,3,10,out,False,False,False,False,False,False,False
+102,Manisha,3,10,out,False,False,False,False,False,False,False
+103,Stuart,3,10,out,False,False,False,False,False,False,False
+104,Victoria,3,10,out,False,False,False,False,False,False,False
+105,Peter,3,10,out,False,False,False,False,False,False,False
+106,Natasha,3,10,out,False,False,False,False,False,False,False
+107,Frances,4,10,Baker was the series winner,False,False,False,False,False,False,True
+108,Kimberley,4,10,Baker was the series runner-up,False,False,False,False,False,True,False
+109,Ruby,4,10,Baker was the series runner-up,False,False,False,False,False,True,False
+110,Beca,4,10,out,False,False,False,False,False,False,False
+111,Christine,4,10,out,False,False,False,False,False,False,False
+112,Glenn,4,10,out,False,False,False,False,False,False,False
+113,Howard,4,10,out,False,False,False,False,False,False,False
+114,Robert,4,10,out,False,False,False,False,False,False,False
+115,Ali,4,10,out,False,False,False,False,False,False,False
+116,Deborah,4,10,out,False,False,False,False,False,False,False
+117,Mark,4,10,out,False,False,False,False,False,False,False
+118,Lucy,4,10,out,False,False,False,False,False,False,False
+119,Toby,4,10,out,False,False,False,False,False,False,False
+120,Nancy,5,10,Baker was the series winner.,False,False,False,False,False,False,True
+121,Luis,5,10,Baker was the series runner-up.,False,False,False,False,False,True,False
+122,Richard,5,10,Baker was the series runner-up.,False,False,False,False,False,True,False
+123,Chetna,5,10,out,False,False,False,False,False,False,False
+124,Martha,5,10,out,False,False,False,False,False,False,False
+125,Kate,5,10,out,False,False,False,False,False,False,False
+126,Norman,5,10,out,False,False,False,False,False,False,False
+127,Diana,5,10,out,False,False,False,False,False,False,False
+128,Iain,5,10,out,False,False,False,False,False,False,False
+129,Jordan,5,10,out,False,False,False,False,False,False,False
+130,Enwezor,5,10,out,False,False,False,False,False,False,False
+131,Claire,5,10,out,False,False,False,False,False,False,False
+132,Jo,2,10,,False,False,False,False,False,False,False
+133,Holly,2,10,,False,False,False,False,False,False,False
+134,Mary-Anne,2,10,,False,False,False,False,False,False,False
+135,Janet,2,10,,False,False,False,False,False,False,False
+136,Yasmin,2,10,,False,False,False,False,False,False,False
+137,Jason,2,10,,False,False,False,False,False,False,False
+138,Robert,2,10,,False,False,False,False,False,False,False
+139,Ben,2,10,,False,False,False,False,False,False,False
+140,Ian,2,10,,False,False,False,False,False,False,False
+141,Urvashi,2,10,,False,False,False,False,False,False,False
+142,Simon,2,10,,False,False,False,False,False,False,False
+143,Keith,2,10,,False,False,False,False,False,False,False
+144,Candice,7,10,Baker was the series winner.,False,False,False,False,False,False,True
+145,Andrew,7,10,Baker was a series runner-up.,False,False,False,False,False,True,False
+146,Jane,7,10,Baker was a series runner-up.,False,False,False,False,False,True,False
+147,Selasi,7,10,out,False,False,False,False,False,False,False
+148,Benjamina,7,10,out,False,False,False,False,False,False,False
+149,Tom,7,10,out,False,False,False,False,False,False,False
+150,Rav,7,10,out,False,False,False,False,False,False,False
+151,Val,7,10,out,False,False,False,False,False,False,False
+152,Kate,7,10,out,False,False,False,False,False,False,False
+153,Michael,7,10,out,False,False,False,False,False,False,False
+154,Louise,7,10,out,False,False,False,False,False,False,False
+155,Lee,7,10,out,False,False,False,False,False,False,False
+156,Sophie,8,10,Baker was the series winner.,False,False,False,False,False,False,True
+157,Kate,8,10,Baker was a series runner-up.,False,False,False,False,False,True,False
+158,Steven,8,10,Baker was a series runner-up.,False,False,False,False,False,True,False
+159,Stacey,8,10,out,False,False,False,False,False,False,False
+160,Liam,8,10,out,False,False,False,False,False,False,False
+161,Yan,8,10,out,False,False,False,False,False,False,False
+162,Julia,8,10,out,False,False,False,False,False,False,False
+163,James,8,10,out,False,False,False,False,False,False,False
+164,Tom,8,10,out,False,False,False,False,False,False,False
+165,Flo,8,10,out,False,False,False,False,False,False,False
+166,Chris,8,10,out,False,False,False,False,False,False,False
+167,Peter,8,10,out,False,False,False,False,False,False,False
+168,Edd,1,10,,False,False,False,False,False,False,False
+169,Ruth,1,10,,False,False,False,False,False,False,False
+170,Miranda,1,10,,False,False,False,False,False,False,False
+171,Jasminder,1,10,,False,False,False,False,False,False,False
+172,David,1,10,,False,False,False,False,False,False,False
+173,Jonathan,1,10,,False,False,False,False,False,False,False
+174,Annetha,1,10,,False,False,False,False,False,False,False
+175,Louise,1,10,,False,False,False,False,False,False,False
+176,Lea,1,10,,False,False,False,False,False,False,False
+177,Mark,1,10,,False,False,False,False,False,False,False
+178,Nadiya,6,10,Baker was the series winner.,False,False,False,False,False,False,True
+179,Ian,6,10,Baker was a series runner-up.,False,False,False,False,False,True,False
+180,Tamal,6,10,Baker was a series runner-up.,False,False,False,False,False,True,False
+181,Flora,6,10,out,False,False,False,False,False,False,False
+182,Paul,6,10,out,False,False,False,False,False,False,False
+183,Mat,6,10,out,False,False,False,False,False,False,False
+184,Alvin,6,10,out,False,False,False,False,False,False,False
+185,Ugnė,6,10,out,False,False,False,False,False,False,False
+186,Sandy,6,10,out,False,False,False,False,False,False,False
+187,Dorret,6,10,out,False,False,False,False,False,False,False
+188,Marie,6,10,out,False,False,False,False,False,False,False
+189,Stu,6,10,out,False,False,False,False,False,False,False
+190,John,3,2, Baker was the Star Baker,False,True,False,False,False,False,False
+191,Brendan,3,2," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+192,James,3,2," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+193,Danny,3,2, Baker got through to the next round,False,False,True,False,False,False,False
+194,Cathryn,3,2, Baker got through to the next round,False,False,True,False,False,False,False
+195,Ryan,3,2, Baker got through to the next round,False,False,True,False,False,False,False
+196,Sarah-Jane,3,2, Baker got through to the next round,False,False,True,False,False,False,False
+197,Manisha,3,2, Baker got through to the next round,False,False,True,False,False,False,False
+198,Stuart,3,2," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+199,Victoria,3,2," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+200,Peter,3,2, Baker was eliminated,True,False,False,False,False,False,False
+201,Natasha,3,2,out,False,False,False,False,False,False,False
+202,Frances,4,2,Baker got through to the next round,False,False,True,False,False,False,False
+203,Kimberley,4,2,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+204,Ruby,4,2,Baker was the Star Baker,False,True,False,False,False,False,False
+205,Beca,4,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+206,Christine,4,2,Baker got through to the next round,False,False,True,False,False,False,False
+207,Glenn,4,2,Baker got through to the next round,False,False,True,False,False,False,False
+208,Howard,4,2,Baker got through to the next round,False,False,True,False,False,False,False
+209,Robert,4,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+210,Ali,4,2,Baker got through to the next round,False,False,True,False,False,False,False
+211,Deborah,4,2,Baker got through to the next round,False,False,True,False,False,False,False
+212,Mark,4,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+213,Lucy,4,2,Baker was eliminated,True,False,False,False,False,False,False
+214,Toby,4,2,out,False,False,False,False,False,False,False
+215,Nancy,5,2,Baker got through to the next round.,False,False,True,False,False,False,False
+216,Luis,5,2,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+217,Richard,5,2,Baker was the Star Baker.,False,True,False,False,False,False,False
+218,Chetna,5,2,Baker got through to the next round.,False,False,True,False,False,False,False
+219,Martha,5,2,Baker got through to the next round.,False,False,True,False,False,False,False
+220,Kate,5,2,Baker got through to the next round.,False,False,True,False,False,False,False
+221,Norman,5,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+222,Diana,5,2,Baker got through to the next round.,False,False,True,False,False,False,False
+223,Iain,5,2,Baker got through to the next round.,False,False,True,False,False,False,False
+224,Jordan,5,2,Baker got through to the next round.,False,False,True,False,False,False,False
+225,Enwezor,5,2,Baker was eliminated.,True,False,False,False,False,False,False
+226,Claire,5,2,out,False,False,False,False,False,False,False
+227,Jo,2,2," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+228,Holly,2,2, Baker got through to the next round,False,False,True,False,False,False,False
+229,Mary-Anne,2,2, Baker got through to the next round,False,False,True,False,False,False,False
+230,Janet,2,2, Baker got through to the next round,False,False,True,False,False,False,False
+231,Yasmin,2,2, Baker got through to the next round,False,False,True,False,False,False,False
+232,Jason,2,2, Baker was the Star Baker,False,True,False,False,False,False,False
+233,Robert,2,2," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+234,Ben,2,2, Baker got through to the next round,False,False,True,False,False,False,False
+235,Ian,2,2," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+236,Urvashi,2,2, Baker got through to the next round,False,False,True,False,False,False,False
+237,Simon,2,2, Baker was eliminated,True,False,False,False,False,False,False
+238,Keith,2,2,out,False,False,False,False,False,False,False
+239,Candice,7,2,Baker was the Star Baker.,False,True,False,False,False,False,False
+240,Andrew,7,2,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+241,Jane,7,2,Baker got through to the next round.,False,False,True,False,False,False,False
+242,Selasi,7,2,Baker got through to the next round.,False,False,True,False,False,False,False
+243,Benjamina,7,2,Baker got through to the next round.,False,False,True,False,False,False,False
+244,Tom,7,2,Baker got through to the next round.,False,False,True,False,False,False,False
+245,Rav,7,2,Baker got through to the next round.,False,False,True,False,False,False,False
+246,Val,7,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+247,Kate,7,2,Baker got through to the next round.,False,False,True,False,False,False,False
+248,Michael,7,2,Baker got through to the next round.,False,False,True,False,False,False,False
+249,Louise,7,2,Baker was eliminated.,True,False,False,False,False,False,False
+250,Lee,7,2,out,False,False,False,False,False,False,False
+251,Sophie,8,2,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+252,Kate,8,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+253,Steven,8,2,Baker was the Star Baker.,False,True,False,False,False,False,False
+254,Stacey,8,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+255,Liam,8,2,Baker got through to the next round.,False,False,True,False,False,False,False
+256,Yan,8,2,Baker got through to the next round.,False,False,True,False,False,False,False
+257,Julia,8,2,Baker got through to the next round.,False,False,True,False,False,False,False
+258,James,8,2,Baker got through to the next round.,False,False,True,False,False,False,False
+259,Tom,8,2,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+260,Flo,8,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+261,Chris,8,2,Baker was eliminated.,True,False,False,False,False,False,False
+262,Peter,8,2,out,False,False,False,False,False,False,False
+263,Edd,1,2, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+264,Ruth,1,2, Baker got through to the next round,False,False,True,False,False,False,False
+265,Miranda,1,2, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+266,Jasminder,1,2, Baker got through to the next round,False,False,True,False,False,False,False
+267,David,1,2," Baker was one of the judges' least favourite bakers that week, but was not eliminated",False,False,False,False,True,False,False
+268,Jonathan,1,2, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+269,Annetha,1,2, Baker was eliminated,True,False,False,False,False,False,False
+270,Louise,1,2, Baker was eliminated,True,False,False,False,False,False,False
+271,Lea,1,2,out,False,False,False,False,False,False,False
+272,Mark,1,2,out,False,False,False,False,False,False,False
+273,Nadiya,6,2,Baker got through to the next round.,False,False,True,False,False,False,False
+274,Ian,6,2,Baker was the Star Baker.,False,True,False,False,False,False,False
+275,Tamal,6,2,Baker got through to the next round.,False,False,True,False,False,False,False
+276,Flora,6,2,Baker got through to the next round.,False,False,True,False,False,False,False
+277,Paul,6,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+278,Mat,6,2,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+279,Alvin,6,2,Baker got through to the next round.,False,False,True,False,False,False,False
+280,Ugnė,6,2,Baker got through to the next round.,False,False,True,False,False,False,False
+281,Sandy,6,2,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+282,Dorret,6,2,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+283,Marie,6,2,Baker was eliminated.,True,False,False,False,False,False,False
+284,Stu,6,2,out,False,False,False,False,False,False,False
+285,John,3,3, Baker got through to the next round,False,False,True,False,False,False,False
+286,Brendan,3,3," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+287,James,3,3, Baker was the Star Baker,False,True,False,False,False,False,False
+288,Danny,3,3, Baker got through to the next round,False,False,True,False,False,False,False
+289,Cathryn,3,3, Baker got through to the next round,False,False,True,False,False,False,False
+290,Ryan,3,3, Baker got through to the next round,False,False,True,False,False,False,False
+291,Sarah-Jane,3,3, Baker got through to the next round,False,False,True,False,False,False,False
+292,Manisha,3,3, Baker got through to the next round,False,False,True,False,False,False,False
+293,Stuart,3,3," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+294,Victoria,3,3, Baker was eliminated,True,False,False,False,False,False,False
+295,Peter,3,3,out,False,False,False,False,False,False,False
+296,Natasha,3,3,out,False,False,False,False,False,False,False
+297,Frances,4,3,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+298,Kimberley,4,3,Baker got through to the next round,False,False,True,False,False,False,False
+299,Ruby,4,3,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+300,Beca,4,3,Baker got through to the next round,False,False,True,False,False,False,False
+301,Christine,4,3,Baker was the Star Baker,False,True,False,False,False,False,False
+302,Glenn,4,3,Baker got through to the next round,False,False,True,False,False,False,False
+303,Howard,4,3,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+304,Robert,4,3,Baker got through to the next round,False,False,True,False,False,False,False
+305,Ali,4,3,Baker got through to the next round,False,False,True,False,False,False,False
+306,Deborah,4,3,Baker was eliminated,True,False,False,False,False,False,False
+307,Mark,4,3,Baker was eliminated,True,False,False,False,False,False,False
+308,Lucy,4,3,out,False,False,False,False,False,False,False
+309,Toby,4,3,out,False,False,False,False,False,False,False
+310,Nancy,5,3,Baker got through to the next round.,False,False,True,False,False,False,False
+311,Luis,5,3,Baker was the Star Baker.,False,True,False,False,False,False,False
+312,Richard,5,3,Baker got through to the next round.,False,False,True,False,False,False,False
+313,Chetna,5,3,Baker got through to the next round.,False,False,True,False,False,False,False
+314,Martha,5,3,Baker got through to the next round.,False,False,True,False,False,False,False
+315,Kate,5,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+316,Norman,5,3,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+317,Diana,5,3,Baker got through to the next round.,False,False,True,False,False,False,False
+318,Iain,5,3,Baker got through to the next round.,False,False,True,False,False,False,False
+319,Jordan,5,3,Baker was eliminated.,True,False,False,False,False,False,False
+320,Enwezor,5,3,out,False,False,False,False,False,False,False
+321,Claire,5,3,out,False,False,False,False,False,False,False
+322,Jo,2,3, Baker got through to the next round,False,False,True,False,False,False,False
+323,Holly,2,3, Baker got through to the next round,False,False,True,False,False,False,False
+324,Mary-Anne,2,3," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+325,Janet,2,3," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+326,Yasmin,2,3, Baker was the Star Baker,False,True,False,False,False,False,False
+327,Jason,2,3, Baker got through to the next round,False,False,True,False,False,False,False
+328,Robert,2,3," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+329,Ben,2,3, Baker got through to the next round,False,False,True,False,False,False,False
+330,Ian,2,3, Baker was eliminated,True,False,False,False,False,False,False
+331,Urvashi,2,3, Baker was eliminated,True,False,False,False,False,False,False
+332,Simon,2,3,out,False,False,False,False,False,False,False
+333,Keith,2,3,out,False,False,False,False,False,False,False
+334,Candice,7,3,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+335,Andrew,7,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+336,Jane,7,3,Baker got through to the next round.,False,False,True,False,False,False,False
+337,Selasi,7,3,Baker got through to the next round.,False,False,True,False,False,False,False
+338,Benjamina,7,3,Baker got through to the next round.,False,False,True,False,False,False,False
+339,Tom,7,3,Baker was the Star Baker.,False,True,False,False,False,False,False
+340,Rav,7,3,Baker got through to the next round.,False,False,True,False,False,False,False
+341,Val,7,3,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+342,Kate,7,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+343,Michael,7,3,Baker was eliminated.,True,False,False,False,False,False,False
+344,Louise,7,3,out,False,False,False,False,False,False,False
+345,Lee,7,3,out,False,False,False,False,False,False,False
+346,Sophie,8,3,Baker got through to the next round.,False,False,True,False,False,False,False
+347,Kate,8,3,Baker got through to the next round.,False,False,True,False,False,False,False
+348,Steven,8,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+349,Stacey,8,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+350,Liam,8,3,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+351,Yan,8,3,Baker got through to the next round.,False,False,True,False,False,False,False
+352,Julia,8,3,Baker was the Star Baker.,False,True,False,False,False,False,False
+353,James,8,3,Baker got through to the next round.,False,False,True,False,False,False,False
+354,Tom,8,3,Baker got through to the next round.,False,False,True,False,False,False,False
+355,Flo,8,3,Baker was eliminated.,True,False,False,False,False,False,False
+356,Chris,8,3,out,False,False,False,False,False,False,False
+357,Peter,8,3,out,False,False,False,False,False,False,False
+358,Edd,1,3, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+359,Ruth,1,3, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+360,Miranda,1,3, Baker got through to the next round,False,False,True,False,False,False,False
+361,Jasminder,1,3," Baker was one of the judges' least favourite bakers that week, but was not eliminated",False,False,False,False,True,False,False
+362,David,1,3," Baker was one of the judges' least favourite bakers that week, but was not eliminated",False,False,False,False,True,False,False
+363,Jonathan,1,3, Baker was eliminated,True,False,False,False,False,False,False
+364,Annetha,1,3,out,False,False,False,False,False,False,False
+365,Louise,1,3,out,False,False,False,False,False,False,False
+366,Lea,1,3,out,False,False,False,False,False,False,False
+367,Mark,1,3,out,False,False,False,False,False,False,False
+368,Nadiya,6,3,Baker got through to the next round.,False,False,True,False,False,False,False
+369,Ian,6,3,Baker was the Star Baker.,False,True,False,False,False,False,False
+370,Tamal,6,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+371,Flora,6,3,Baker got through to the next round.,False,False,True,False,False,False,False
+372,Paul,6,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+373,Mat,6,3,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+374,Alvin,6,3,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+375,Ugnė,6,3,Baker got through to the next round.,False,False,True,False,False,False,False
+376,Sandy,6,3,Baker got through to the next round.,False,False,True,False,False,False,False
+377,Dorret,6,3,Baker was eliminated.,True,False,False,False,False,False,False
+378,Marie,6,3,out,False,False,False,False,False,False,False
+379,Stu,6,3,out,False,False,False,False,False,False,False
+380,John,3,4, Baker got through to the next round,False,False,True,False,False,False,False
+381,Brendan,3,4, Baker was the Star Baker,False,True,False,False,False,False,False
+382,James,3,4, Baker got through to the next round,False,False,True,False,False,False,False
+383,Danny,3,4," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+384,Cathryn,3,4, Baker got through to the next round,False,False,True,False,False,False,False
+385,Ryan,3,4," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+386,Sarah-Jane,3,4, Baker got through to the next round,False,False,True,False,False,False,False
+387,Manisha,3,4," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+388,Stuart,3,4, Baker was eliminated,True,False,False,False,False,False,False
+389,Victoria,3,4,out,False,False,False,False,False,False,False
+390,Peter,3,4,out,False,False,False,False,False,False,False
+391,Natasha,3,4,out,False,False,False,False,False,False,False
+392,Frances,4,4,Baker got through to the next round,False,False,True,False,False,False,False
+393,Kimberley,4,4,Baker was the Star Baker,False,True,False,False,False,False,False
+394,Ruby,4,4,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+395,Beca,4,4,Baker got through to the next round,False,False,True,False,False,False,False
+396,Christine,4,4,Baker got through to the next round,False,False,True,False,False,False,False
+397,Glenn,4,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+398,Howard,4,4,Baker got through to the next round,False,False,True,False,False,False,False
+399,Robert,4,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+400,Ali,4,4,Baker was eliminated,True,False,False,False,False,False,False
+401,Deborah,4,4,out,False,False,False,False,False,False,False
+402,Mark,4,4,out,False,False,False,False,False,False,False
+403,Lucy,4,4,out,False,False,False,False,False,False,False
+404,Toby,4,4,out,False,False,False,False,False,False,False
+405,Nancy,5,4,Baker got through to the next round.,False,False,True,False,False,False,False
+406,Luis,5,4,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+407,Richard,5,4,Baker was the Star Baker.,False,True,False,False,False,False,False
+408,Chetna,5,4,Baker got through to the next round.,False,False,True,False,False,False,False
+409,Martha,5,4,Baker got through to the next round.,False,False,True,False,False,False,False
+410,Kate,5,4,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+411,Norman,5,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+412,Diana,5,4,Baker got through to the next round.,False,False,True,False,False,False,False
+413,Iain,5,4,Baker was eliminated.,True,False,False,False,False,False,False
+414,Jordan,5,4,out,False,False,False,False,False,False,False
+415,Enwezor,5,4,out,False,False,False,False,False,False,False
+416,Claire,5,4,out,False,False,False,False,False,False,False
+417,Jo,2,4, Baker got through to the next round,False,False,True,False,False,False,False
+418,Holly,2,4, Baker was the Star Baker,False,True,False,False,False,False,False
+419,Mary-Anne,2,4," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+420,Janet,2,4, Baker got through to the next round,False,False,True,False,False,False,False
+421,Yasmin,2,4," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+422,Jason,2,4, Baker was the Star Baker,False,True,False,False,False,False,False
+423,Robert,2,4, Baker got through to the next round,False,False,True,False,False,False,False
+424,Ben,2,4, Baker was eliminated,True,False,False,False,False,False,False
+425,Ian,2,4,out,False,False,False,False,False,False,False
+426,Urvashi,2,4,out,False,False,False,False,False,False,False
+427,Simon,2,4,out,False,False,False,False,False,False,False
+428,Keith,2,4,out,False,False,False,False,False,False,False
+429,Candice,7,4,Baker got through to the next round.,False,False,True,False,False,False,False
+430,Andrew,7,4,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+431,Jane,7,4,Baker got through to the next round.,False,False,True,False,False,False,False
+432,Selasi,7,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+433,Benjamina,7,4,Baker was the Star Baker.,False,True,False,False,False,False,False
+434,Tom,7,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+435,Rav,7,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+436,Val,7,4,Baker got through to the next round.,False,False,True,False,False,False,False
+437,Kate,7,4,Baker was eliminated.,True,False,False,False,False,False,False
+438,Michael,7,4,out,False,False,False,False,False,False,False
+439,Louise,7,4,out,False,False,False,False,False,False,False
+440,Lee,7,4,out,False,False,False,False,False,False,False
+441,Sophie,8,4,Baker got through to the next round.,False,False,True,False,False,False,False
+442,Kate,8,4,Baker was the Star Baker.,False,True,False,False,False,False,False
+443,Steven,8,4,Baker got through to the next round.,False,False,True,False,False,False,False
+444,Stacey,8,4,Baker got through to the next round.,False,False,True,False,False,False,False
+445,Liam,8,4,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+446,Yan,8,4,Baker got through to the next round.,False,False,True,False,False,False,False
+447,Julia,8,4,Baker got through to the next round.,False,False,True,False,False,False,False
+448,James,8,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+449,Tom,8,4,Baker was eliminated.,True,False,False,False,False,False,False
+450,Flo,8,4,out,False,False,False,False,False,False,False
+451,Chris,8,4,out,False,False,False,False,False,False,False
+452,Peter,8,4,out,False,False,False,False,False,False,False
+453,Edd,1,4," Baker was one of the judges' least favourite bakers that week, but was not eliminated",False,False,False,False,True,False,False
+454,Ruth,1,4, Baker got through to the next round,False,False,True,False,False,False,False
+455,Miranda,1,4, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+456,Jasminder,1,4, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+457,David,1,4, Baker was eliminated,True,False,False,False,False,False,False
+458,Jonathan,1,4,out,False,False,False,False,False,False,False
+459,Annetha,1,4,out,False,False,False,False,False,False,False
+460,Louise,1,4,out,False,False,False,False,False,False,False
+461,Lea,1,4,out,False,False,False,False,False,False,False
+462,Mark,1,4,out,False,False,False,False,False,False,False
+463,Nadiya,6,4,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+464,Ian,6,4,Baker was the Star Baker.,False,True,False,False,False,False,False
+465,Tamal,6,4,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+466,Flora,6,4,Baker got through to the next round.,False,False,True,False,False,False,False
+467,Paul,6,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+468,Mat,6,4,Baker got through to the next round.,False,False,True,False,False,False,False
+469,Alvin,6,4,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+470,Ugnė,6,4,Baker got through to the next round.,False,False,True,False,False,False,False
+471,Sandy,6,4,Baker was eliminated.,True,False,False,False,False,False,False
+472,Dorret,6,4,out,False,False,False,False,False,False,False
+473,Marie,6,4,out,False,False,False,False,False,False,False
+474,Stu,6,4,out,False,False,False,False,False,False,False
+475,John,3,5, Baker got through to the next round,False,False,True,False,False,False,False
+476,Brendan,3,5," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+477,James,3,5, Baker got through to the next round,False,False,True,False,False,False,False
+478,Danny,3,5," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+479,Cathryn,3,5, Baker got through to the next round,False,False,True,False,False,False,False
+480,Ryan,3,5, Baker was the Star Baker,False,True,False,False,False,False,False
+481,Sarah-Jane,3,5," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+482,Manisha,3,5, Baker was eliminated,True,False,False,False,False,False,False
+483,Stuart,3,5,out,False,False,False,False,False,False,False
+484,Victoria,3,5,out,False,False,False,False,False,False,False
+485,Peter,3,5,out,False,False,False,False,False,False,False
+486,Natasha,3,5,out,False,False,False,False,False,False,False
+487,Frances,4,5,Baker got through to the next round,False,False,True,False,False,False,False
+488,Kimberley,4,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+489,Ruby,4,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+490,Beca,4,5,Baker got through to the next round,False,False,True,False,False,False,False
+491,Christine,4,5,Baker was the Star Baker,False,True,False,False,False,False,False
+492,Glenn,4,5,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+493,Howard,4,5,Baker got through to the next round,False,False,True,False,False,False,False
+494,Robert,4,5,Baker was eliminated,True,False,False,False,False,False,False
+495,Ali,4,5,out,False,False,False,False,False,False,False
+496,Deborah,4,5,out,False,False,False,False,False,False,False
+497,Mark,4,5,out,False,False,False,False,False,False,False
+498,Lucy,4,5,out,False,False,False,False,False,False,False
+499,Toby,4,5,out,False,False,False,False,False,False,False
+500,Nancy,5,5,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+501,Luis,5,5,Baker got through to the next round.,False,False,True,False,False,False,False
+502,Richard,5,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+503,Chetna,5,5,Baker got through to the next round.,False,False,True,False,False,False,False
+504,Martha,5,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+505,Kate,5,5,Baker was the Star Baker.,False,True,False,False,False,False,False
+506,Norman,5,5,Baker was eliminated.,True,False,False,False,False,False,False
+507,Diana,5,5,Baker withdrew from the show.,False,False,False,False,False,False,False
+508,Iain,5,5,out,False,False,False,False,False,False,False
+509,Jordan,5,5,out,False,False,False,False,False,False,False
+510,Enwezor,5,5,out,False,False,False,False,False,False,False
+511,Claire,5,5,out,False,False,False,False,False,False,False
+512,Jo,2,5, Baker got through to the next round,False,False,True,False,False,False,False
+513,Holly,2,5, Baker got through to the next round,False,False,True,False,False,False,False
+514,Mary-Anne,2,5," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+515,Janet,2,5, Baker was the Star Baker,False,True,False,False,False,False,False
+516,Yasmin,2,5," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+517,Jason,2,5, Baker was eliminated,True,False,False,False,False,False,False
+518,Robert,2,5, Baker was eliminated,True,False,False,False,False,False,False
+519,Ben,2,5,out,False,False,False,False,False,False,False
+520,Ian,2,5,out,False,False,False,False,False,False,False
+521,Urvashi,2,5,out,False,False,False,False,False,False,False
+522,Simon,2,5,out,False,False,False,False,False,False,False
+523,Keith,2,5,out,False,False,False,False,False,False,False
+524,Candice,7,5,Baker was the Star Baker.,False,True,False,False,False,False,False
+525,Andrew,7,5,Baker got through to the next round.,False,False,True,False,False,False,False
+526,Jane,7,5,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+527,Selasi,7,5,Baker got through to the next round.,False,False,True,False,False,False,False
+528,Benjamina,7,5,Baker got through to the next round.,False,False,True,False,False,False,False
+529,Tom,7,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+530,Rav,7,5,Baker got through to the next round.,False,False,True,False,False,False,False
+531,Val,7,5,Baker was eliminated.,True,False,False,False,False,False,False
+532,Kate,7,5,out,False,False,False,False,False,False,False
+533,Michael,7,5,out,False,False,False,False,False,False,False
+534,Louise,7,5,out,False,False,False,False,False,False,False
+535,Lee,7,5,out,False,False,False,False,False,False,False
+536,Sophie,8,5,Baker was the Star Baker.,False,True,False,False,False,False,False
+537,Kate,8,5,Baker got through to the next round.,False,False,True,False,False,False,False
+538,Steven,8,5,Baker got through to the next round.,False,False,True,False,False,False,False
+539,Stacey,8,5,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+540,Liam,8,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+541,Yan,8,5,Baker got through to the next round.,False,False,True,False,False,False,False
+542,Julia,8,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+543,James,8,5,Baker was eliminated.,True,False,False,False,False,False,False
+544,Tom,8,5,out,False,False,False,False,False,False,False
+545,Flo,8,5,out,False,False,False,False,False,False,False
+546,Chris,8,5,out,False,False,False,False,False,False,False
+547,Peter,8,5,out,False,False,False,False,False,False,False
+548,Edd,1,5, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+549,Ruth,1,5, Baker was one of the judges' favourite bakers that week,False,False,False,False,False,False,False
+550,Miranda,1,5," Baker was one of the judges' least favourite bakers that week, but was not eliminated",False,False,False,False,True,False,False
+551,Jasminder,1,5, Baker was eliminated,True,False,False,False,False,False,False
+552,David,1,5,out,False,False,False,False,False,False,False
+553,Jonathan,1,5,out,False,False,False,False,False,False,False
+554,Annetha,1,5,out,False,False,False,False,False,False,False
+555,Louise,1,5,out,False,False,False,False,False,False,False
+556,Lea,1,5,out,False,False,False,False,False,False,False
+557,Mark,1,5,out,False,False,False,False,False,False,False
+558,Nadiya,6,5,Baker was the Star Baker.,False,True,False,False,False,False,False
+559,Ian,6,5,Baker got through to the next round.,False,False,True,False,False,False,False
+560,Tamal,6,5,Baker got through to the next round.,False,False,True,False,False,False,False
+561,Flora,6,5,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+562,Paul,6,5,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+563,Mat,6,5,Baker got through to the next round.,False,False,True,False,False,False,False
+564,Alvin,6,5,Baker got through to the next round.,False,False,True,False,False,False,False
+565,Ugnė,6,5,Baker was eliminated.,True,False,False,False,False,False,False
+566,Sandy,6,5,out,False,False,False,False,False,False,False
+567,Dorret,6,5,out,False,False,False,False,False,False,False
+568,Marie,6,5,out,False,False,False,False,False,False,False
+569,Stu,6,5,out,False,False,False,False,False,False,False
+570,John,3,6," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+571,Brendan,3,6, Baker was the Star Baker,False,True,False,False,False,False,False
+572,James,3,6," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+573,Danny,3,6," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+574,Cathryn,3,6, Baker got through to the next round,False,False,True,False,False,False,False
+575,Ryan,3,6, Baker got through to the next round,False,False,True,False,False,False,False
+576,Sarah-Jane,3,6," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+577,Manisha,3,6,out,False,False,False,False,False,False,False
+578,Stuart,3,6,out,False,False,False,False,False,False,False
+579,Victoria,3,6,out,False,False,False,False,False,False,False
+580,Peter,3,6,out,False,False,False,False,False,False,False
+581,Natasha,3,6,out,False,False,False,False,False,False,False
+582,Frances,4,6,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+583,Kimberley,4,6,Baker got through to the next round,False,False,True,False,False,False,False
+584,Ruby,4,6,Baker was the Star Baker,False,True,False,False,False,False,False
+585,Beca,4,6,Baker got through to the next round,False,False,True,False,False,False,False
+586,Christine,4,6,Baker got through to the next round,False,False,True,False,False,False,False
+587,Glenn,4,6,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+588,Howard,4,6,Baker was eliminated,True,False,False,False,False,False,False
+589,Robert,4,6,out,False,False,False,False,False,False,False
+590,Ali,4,6,out,False,False,False,False,False,False,False
+591,Deborah,4,6,out,False,False,False,False,False,False,False
+592,Mark,4,6,out,False,False,False,False,False,False,False
+593,Lucy,4,6,out,False,False,False,False,False,False,False
+594,Toby,4,6,out,False,False,False,False,False,False,False
+595,Nancy,5,6,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+596,Luis,5,6,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+597,Richard,5,6,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+598,Chetna,5,6,Baker was the Star Baker.,False,True,False,False,False,False,False
+599,Martha,5,6,Baker got through to the next round.,False,False,True,False,False,False,False
+600,Kate,5,6,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+601,Norman,5,6,out,False,False,False,False,False,False,False
+602,Diana,5,6,out,False,False,False,False,False,False,False
+603,Iain,5,6,out,False,False,False,False,False,False,False
+604,Jordan,5,6,out,False,False,False,False,False,False,False
+605,Enwezor,5,6,out,False,False,False,False,False,False,False
+606,Claire,5,6,out,False,False,False,False,False,False,False
+607,Jo,2,6, Baker was the Star Baker,False,True,False,False,False,False,False
+608,Holly,2,6," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+609,Mary-Anne,2,6," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+610,Janet,2,6, Baker got through to the next round,False,False,True,False,False,False,False
+611,Yasmin,2,6, Baker was eliminated,True,False,False,False,False,False,False
+612,Jason,2,6,out,False,False,False,False,False,False,False
+613,Robert,2,6,out,False,False,False,False,False,False,False
+614,Ben,2,6,out,False,False,False,False,False,False,False
+615,Ian,2,6,out,False,False,False,False,False,False,False
+616,Urvashi,2,6,out,False,False,False,False,False,False,False
+617,Simon,2,6,out,False,False,False,False,False,False,False
+618,Keith,2,6,out,False,False,False,False,False,False,False
+619,Candice,7,6,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+620,Andrew,7,6,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+621,Jane,7,6,Baker got through to the next round.,False,False,True,False,False,False,False
+622,Selasi,7,6,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+623,Benjamina,7,6,Baker got through to the next round.,False,False,True,False,False,False,False
+624,Tom,7,6,Baker was the Star Baker.,False,True,False,False,False,False,False
+625,Rav,7,6,Baker was eliminated.,True,False,False,False,False,False,False
+626,Val,7,6,out,False,False,False,False,False,False,False
+627,Kate,7,6,out,False,False,False,False,False,False,False
+628,Michael,7,6,out,False,False,False,False,False,False,False
+629,Louise,7,6,out,False,False,False,False,False,False,False
+630,Lee,7,6,out,False,False,False,False,False,False,False
+631,Sophie,8,6,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+632,Kate,8,6,Baker got through to the next round.,False,False,True,False,False,False,False
+633,Steven,8,6,Baker got through to the next round.,False,False,True,False,False,False,False
+634,Stacey,8,6,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+635,Liam,8,6,Baker was the Star Baker.,False,True,False,False,False,False,False
+636,Yan,8,6,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+637,Julia,8,6,Baker was eliminated.,True,False,False,False,False,False,False
+638,James,8,6,out,False,False,False,False,False,False,False
+639,Tom,8,6,out,False,False,False,False,False,False,False
+640,Flo,8,6,out,False,False,False,False,False,False,False
+641,Chris,8,6,out,False,False,False,False,False,False,False
+642,Peter,8,6,out,False,False,False,False,False,False,False
+643,Edd,1,6, Baker was the series winner,False,False,False,False,False,False,True
+644,Ruth,1,6, Baker was the series runner-up,False,False,False,False,False,True,False
+645,Miranda,1,6, Baker was eliminated in the first challenge of the final.,False,False,False,False,False,False,False
+646,Jasminder,1,6,out,False,False,False,False,False,False,False
+647,David,1,6,out,False,False,False,False,False,False,False
+648,Jonathan,1,6,out,False,False,False,False,False,False,False
+649,Annetha,1,6,out,False,False,False,False,False,False,False
+650,Louise,1,6,out,False,False,False,False,False,False,False
+651,Lea,1,6,out,False,False,False,False,False,False,False
+652,Mark,1,6,out,False,False,False,False,False,False,False
+653,Nadiya,6,6,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+654,Ian,6,6,Baker got through to the next round.,False,False,True,False,False,False,False
+655,Tamal,6,6,Baker got through to the next round.,False,False,True,False,False,False,False
+656,Flora,6,6,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+657,Paul,6,6,Baker got through to the next round.,False,False,True,False,False,False,False
+658,Mat,6,6,Baker was the Star Baker.,False,True,False,False,False,False,False
+659,Alvin,6,6,Baker was eliminated.,True,False,False,False,False,False,False
+660,Ugnė,6,6,out,False,False,False,False,False,False,False
+661,Sandy,6,6,out,False,False,False,False,False,False,False
+662,Dorret,6,6,out,False,False,False,False,False,False,False
+663,Marie,6,6,out,False,False,False,False,False,False,False
+664,Stu,6,6,out,False,False,False,False,False,False,False
+665,John,3,7," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+666,Brendan,3,7," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+667,James,3,7," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+668,Danny,3,7, Baker was the Star Baker,False,True,False,False,False,False,False
+669,Cathryn,3,7," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+670,Ryan,3,7, Baker was eliminated,True,False,False,False,False,False,False
+671,Sarah-Jane,3,7, Baker was eliminated,True,False,False,False,False,False,False
+672,Manisha,3,7,out,False,False,False,False,False,False,False
+673,Stuart,3,7,out,False,False,False,False,False,False,False
+674,Victoria,3,7,out,False,False,False,False,False,False,False
+675,Peter,3,7,out,False,False,False,False,False,False,False
+676,Natasha,3,7,out,False,False,False,False,False,False,False
+677,Frances,4,7,Baker was the Star Baker,False,True,False,False,False,False,False
+678,Kimberley,4,7,Baker got through to the next round,False,False,True,False,False,False,False
+679,Ruby,4,7,Baker got through to the next round,False,False,True,False,False,False,False
+680,Beca,4,7,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+681,Christine,4,7,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+682,Glenn,4,7,Baker was eliminated,True,False,False,False,False,False,False
+683,Howard,4,7,out,False,False,False,False,False,False,False
+684,Robert,4,7,out,False,False,False,False,False,False,False
+685,Ali,4,7,out,False,False,False,False,False,False,False
+686,Deborah,4,7,out,False,False,False,False,False,False,False
+687,Mark,4,7,out,False,False,False,False,False,False,False
+688,Lucy,4,7,out,False,False,False,False,False,False,False
+689,Toby,4,7,out,False,False,False,False,False,False,False
+690,Nancy,5,7,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+691,Luis,5,7,Baker got through to the next round.,False,False,True,False,False,False,False
+692,Richard,5,7,Baker was the Star Baker.,False,True,False,False,False,False,False
+693,Chetna,5,7,Baker got through to the next round.,False,False,True,False,False,False,False
+694,Martha,5,7,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+695,Kate,5,7,Baker was eliminated.,True,False,False,False,False,False,False
+696,Norman,5,7,out,False,False,False,False,False,False,False
+697,Diana,5,7,out,False,False,False,False,False,False,False
+698,Iain,5,7,out,False,False,False,False,False,False,False
+699,Jordan,5,7,out,False,False,False,False,False,False,False
+700,Enwezor,5,7,out,False,False,False,False,False,False,False
+701,Claire,5,7,out,False,False,False,False,False,False,False
+702,Jo,2,7," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+703,Holly,2,7," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+704,Mary-Anne,2,7," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+705,Janet,2,7, Baker was eliminated,True,False,False,False,False,False,False
+706,Yasmin,2,7,out,False,False,False,False,False,False,False
+707,Jason,2,7,out,False,False,False,False,False,False,False
+708,Robert,2,7,out,False,False,False,False,False,False,False
+709,Ben,2,7,out,False,False,False,False,False,False,False
+710,Ian,2,7,out,False,False,False,False,False,False,False
+711,Urvashi,2,7,out,False,False,False,False,False,False,False
+712,Simon,2,7,out,False,False,False,False,False,False,False
+713,Keith,2,7,out,False,False,False,False,False,False,False
+714,Candice,7,7,Baker got through to the next round.,False,False,True,False,False,False,False
+715,Andrew,7,7,Baker was the Star Baker.,False,True,False,False,False,False,False
+716,Jane,7,7,Baker got through to the next round.,False,False,True,False,False,False,False
+717,Selasi,7,7,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+718,Benjamina,7,7,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+719,Tom,7,7,Baker was eliminated.,True,False,False,False,False,False,False
+720,Rav,7,7,out,False,False,False,False,False,False,False
+721,Val,7,7,out,False,False,False,False,False,False,False
+722,Kate,7,7,out,False,False,False,False,False,False,False
+723,Michael,7,7,out,False,False,False,False,False,False,False
+724,Louise,7,7,out,False,False,False,False,False,False,False
+725,Lee,7,7,out,False,False,False,False,False,False,False
+726,Sophie,8,7,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+727,Kate,8,7,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+728,Steven,8,7,Baker was the Star Baker.,False,True,False,False,False,False,False
+729,Stacey,8,7,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+730,Liam,8,7,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+731,Yan,8,7,Baker was eliminated.,True,False,False,False,False,False,False
+732,Julia,8,7,out,False,False,False,False,False,False,False
+733,James,8,7,out,False,False,False,False,False,False,False
+734,Tom,8,7,out,False,False,False,False,False,False,False
+735,Flo,8,7,out,False,False,False,False,False,False,False
+736,Chris,8,7,out,False,False,False,False,False,False,False
+737,Peter,8,7,out,False,False,False,False,False,False,False
+738,Edd,1,7,,False,False,False,False,False,False,False
+739,Ruth,1,7,,False,False,False,False,False,False,False
+740,Miranda,1,7,,False,False,False,False,False,False,False
+741,Jasminder,1,7,,False,False,False,False,False,False,False
+742,David,1,7,,False,False,False,False,False,False,False
+743,Jonathan,1,7,,False,False,False,False,False,False,False
+744,Annetha,1,7,,False,False,False,False,False,False,False
+745,Louise,1,7,,False,False,False,False,False,False,False
+746,Lea,1,7,,False,False,False,False,False,False,False
+747,Mark,1,7,,False,False,False,False,False,False,False
+748,Nadiya,6,7,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+749,Ian,6,7,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+750,Tamal,6,7,Baker was the Star Baker.,False,True,False,False,False,False,False
+751,Flora,6,7,Baker got through to the next round.,False,False,True,False,False,False,False
+752,Paul,6,7,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+753,Mat,6,7,Baker was eliminated.,True,False,False,False,False,False,False
+754,Alvin,6,7,out,False,False,False,False,False,False,False
+755,Ugnė,6,7,out,False,False,False,False,False,False,False
+756,Sandy,6,7,out,False,False,False,False,False,False,False
+757,Dorret,6,7,out,False,False,False,False,False,False,False
+758,Marie,6,7,out,False,False,False,False,False,False,False
+759,Stu,6,7,out,False,False,False,False,False,False,False
+760,John,3,8," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+761,Brendan,3,8, Baker got through to the next round,False,False,True,False,False,False,False
+762,James,3,8, Baker was the Star Baker,False,True,False,False,False,False,False
+763,Danny,3,8," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+764,Cathryn,3,8, Baker was eliminated,True,False,False,False,False,False,False
+765,Ryan,3,8,out,False,False,False,False,False,False,False
+766,Sarah-Jane,3,8,out,False,False,False,False,False,False,False
+767,Manisha,3,8,out,False,False,False,False,False,False,False
+768,Stuart,3,8,out,False,False,False,False,False,False,False
+769,Victoria,3,8,out,False,False,False,False,False,False,False
+770,Peter,3,8,out,False,False,False,False,False,False,False
+771,Natasha,3,8,out,False,False,False,False,False,False,False
+772,Frances,4,8,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+773,Kimberley,4,8,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+774,Ruby,4,8,Baker was the Star Baker,False,True,False,False,False,False,False
+775,Beca,4,8,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+776,Christine,4,8,Baker was eliminated,True,False,False,False,False,False,False
+777,Glenn,4,8,out,False,False,False,False,False,False,False
+778,Howard,4,8,out,False,False,False,False,False,False,False
+779,Robert,4,8,out,False,False,False,False,False,False,False
+780,Ali,4,8,out,False,False,False,False,False,False,False
+781,Deborah,4,8,out,False,False,False,False,False,False,False
+782,Mark,4,8,out,False,False,False,False,False,False,False
+783,Lucy,4,8,out,False,False,False,False,False,False,False
+784,Toby,4,8,out,False,False,False,False,False,False,False
+785,Nancy,5,8,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+786,Luis,5,8,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+787,Richard,5,8,Baker was the Star Baker.,False,True,False,False,False,False,False
+788,Chetna,5,8,Baker got through to the next round.,False,False,True,False,False,False,False
+789,Martha,5,8,Baker was eliminated.,True,False,False,False,False,False,False
+790,Kate,5,8,out,False,False,False,False,False,False,False
+791,Norman,5,8,out,False,False,False,False,False,False,False
+792,Diana,5,8,out,False,False,False,False,False,False,False
+793,Iain,5,8,out,False,False,False,False,False,False,False
+794,Jordan,5,8,out,False,False,False,False,False,False,False
+795,Enwezor,5,8,out,False,False,False,False,False,False,False
+796,Claire,5,8,out,False,False,False,False,False,False,False
+797,Jo,2,8, Baker was the series winner,False,False,False,False,False,False,True
+798,Holly,2,8, Baker was the series runner-up,False,False,False,False,False,True,False
+799,Mary-Anne,2,8, Baker was the series runner-up,False,False,False,False,False,True,False
+800,Janet,2,8,out,False,False,False,False,False,False,False
+801,Yasmin,2,8,out,False,False,False,False,False,False,False
+802,Jason,2,8,out,False,False,False,False,False,False,False
+803,Robert,2,8,out,False,False,False,False,False,False,False
+804,Ben,2,8,out,False,False,False,False,False,False,False
+805,Ian,2,8,out,False,False,False,False,False,False,False
+806,Urvashi,2,8,out,False,False,False,False,False,False,False
+807,Simon,2,8,out,False,False,False,False,False,False,False
+808,Keith,2,8,out,False,False,False,False,False,False,False
+809,Candice,7,8,Baker was the Star Baker.,False,True,False,False,False,False,False
+810,Andrew,7,8,Baker got through to the next round.,False,False,True,False,False,False,False
+811,Jane,7,8,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+812,Selasi,7,8,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+813,Benjamina,7,8,Baker was eliminated.,True,False,False,False,False,False,False
+814,Tom,7,8,out,False,False,False,False,False,False,False
+815,Rav,7,8,out,False,False,False,False,False,False,False
+816,Val,7,8,out,False,False,False,False,False,False,False
+817,Kate,7,8,out,False,False,False,False,False,False,False
+818,Michael,7,8,out,False,False,False,False,False,False,False
+819,Louise,7,8,out,False,False,False,False,False,False,False
+820,Lee,7,8,out,False,False,False,False,False,False,False
+821,Sophie,8,8,Baker got through to the next round.,False,False,True,False,False,False,False
+822,Kate,8,8,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+823,Steven,8,8,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+824,Stacey,8,8,Baker was the Star Baker.,False,True,False,False,False,False,False
+825,Liam,8,8,Baker was eliminated.,True,False,False,False,False,False,False
+826,Yan,8,8,out,False,False,False,False,False,False,False
+827,Julia,8,8,out,False,False,False,False,False,False,False
+828,James,8,8,out,False,False,False,False,False,False,False
+829,Tom,8,8,out,False,False,False,False,False,False,False
+830,Flo,8,8,out,False,False,False,False,False,False,False
+831,Chris,8,8,out,False,False,False,False,False,False,False
+832,Peter,8,8,out,False,False,False,False,False,False,False
+833,Edd,1,8,,False,False,False,False,False,False,False
+834,Ruth,1,8,,False,False,False,False,False,False,False
+835,Miranda,1,8,,False,False,False,False,False,False,False
+836,Jasminder,1,8,,False,False,False,False,False,False,False
+837,David,1,8,,False,False,False,False,False,False,False
+838,Jonathan,1,8,,False,False,False,False,False,False,False
+839,Annetha,1,8,,False,False,False,False,False,False,False
+840,Louise,1,8,,False,False,False,False,False,False,False
+841,Lea,1,8,,False,False,False,False,False,False,False
+842,Mark,1,8,,False,False,False,False,False,False,False
+843,Nadiya,6,8,Baker was the Star Baker.,False,True,False,False,False,False,False
+844,Ian,6,8,Baker got through to the next round.,False,False,True,False,False,False,False
+845,Tamal,6,8,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+846,Flora,6,8,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+847,Paul,6,8,Baker was eliminated.,True,False,False,False,False,False,False
+848,Mat,6,8,out,False,False,False,False,False,False,False
+849,Alvin,6,8,out,False,False,False,False,False,False,False
+850,Ugnė,6,8,out,False,False,False,False,False,False,False
+851,Sandy,6,8,out,False,False,False,False,False,False,False
+852,Dorret,6,8,out,False,False,False,False,False,False,False
+853,Marie,6,8,out,False,False,False,False,False,False,False
+854,Stu,6,8,out,False,False,False,False,False,False,False
+855,John,3,9," Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+856,Brendan,3,9," Baker was one of the judges' favourite bakers that week, but did not win star baker",False,False,False,True,False,False,False
+857,James,3,9, Baker was the Star Baker,False,True,False,False,False,False,False
+858,Danny,3,9, Baker was eliminated,True,False,False,False,False,False,False
+859,Cathryn,3,9,out,False,False,False,False,False,False,False
+860,Ryan,3,9,out,False,False,False,False,False,False,False
+861,Sarah-Jane,3,9,out,False,False,False,False,False,False,False
+862,Manisha,3,9,out,False,False,False,False,False,False,False
+863,Stuart,3,9,out,False,False,False,False,False,False,False
+864,Victoria,3,9,out,False,False,False,False,False,False,False
+865,Peter,3,9,out,False,False,False,False,False,False,False
+866,Natasha,3,9,out,False,False,False,False,False,False,False
+867,Frances,4,9,"Baker was one of the judges' favourite bakers that week, but did not win star baker.",False,False,False,True,False,False,False
+868,Kimberley,4,9,Baker was the Star Baker,False,True,False,False,False,False,False
+869,Ruby,4,9,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+870,Beca,4,9,Baker was eliminated,True,False,False,False,False,False,False
+871,Christine,4,9,out,False,False,False,False,False,False,False
+872,Glenn,4,9,out,False,False,False,False,False,False,False
+873,Howard,4,9,out,False,False,False,False,False,False,False
+874,Robert,4,9,out,False,False,False,False,False,False,False
+875,Ali,4,9,out,False,False,False,False,False,False,False
+876,Deborah,4,9,out,False,False,False,False,False,False,False
+877,Mark,4,9,out,False,False,False,False,False,False,False
+878,Lucy,4,9,out,False,False,False,False,False,False,False
+879,Toby,4,9,out,False,False,False,False,False,False,False
+880,Nancy,5,9,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+881,Luis,5,9,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+882,Richard,5,9,Baker was the Star Baker.,False,True,False,False,False,False,False
+883,Chetna,5,9,Baker was eliminated.,True,False,False,False,False,False,False
+884,Martha,5,9,out,False,False,False,False,False,False,False
+885,Kate,5,9,out,False,False,False,False,False,False,False
+886,Norman,5,9,out,False,False,False,False,False,False,False
+887,Diana,5,9,out,False,False,False,False,False,False,False
+888,Iain,5,9,out,False,False,False,False,False,False,False
+889,Jordan,5,9,out,False,False,False,False,False,False,False
+890,Enwezor,5,9,out,False,False,False,False,False,False,False
+891,Claire,5,9,out,False,False,False,False,False,False,False
+892,Jo,2,9,,False,False,False,False,False,False,False
+893,Holly,2,9,,False,False,False,False,False,False,False
+894,Mary-Anne,2,9,,False,False,False,False,False,False,False
+895,Janet,2,9,,False,False,False,False,False,False,False
+896,Yasmin,2,9,,False,False,False,False,False,False,False
+897,Jason,2,9,,False,False,False,False,False,False,False
+898,Robert,2,9,,False,False,False,False,False,False,False
+899,Ben,2,9,,False,False,False,False,False,False,False
+900,Ian,2,9,,False,False,False,False,False,False,False
+901,Urvashi,2,9,,False,False,False,False,False,False,False
+902,Simon,2,9,,False,False,False,False,False,False,False
+903,Keith,2,9,,False,False,False,False,False,False,False
+904,Candice,7,9,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+905,Andrew,7,9,Baker was the Star Baker.,False,True,False,False,False,False,False
+906,Jane,7,9,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+907,Selasi,7,9,Baker was eliminated.,True,False,False,False,False,False,False
+908,Benjamina,7,9,out,False,False,False,False,False,False,False
+909,Tom,7,9,out,False,False,False,False,False,False,False
+910,Rav,7,9,out,False,False,False,False,False,False,False
+911,Val,7,9,out,False,False,False,False,False,False,False
+912,Kate,7,9,out,False,False,False,False,False,False,False
+913,Michael,7,9,out,False,False,False,False,False,False,False
+914,Louise,7,9,out,False,False,False,False,False,False,False
+915,Lee,7,9,out,False,False,False,False,False,False,False
+916,Sophie,8,9,Baker was the Star Baker.,False,True,False,False,False,False,False
+917,Kate,8,9,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+918,Steven,8,9,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+919,Stacey,8,9,Baker was eliminated.,True,False,False,False,False,False,False
+920,Liam,8,9,out,False,False,False,False,False,False,False
+921,Yan,8,9,out,False,False,False,False,False,False,False
+922,Julia,8,9,out,False,False,False,False,False,False,False
+923,James,8,9,out,False,False,False,False,False,False,False
+924,Tom,8,9,out,False,False,False,False,False,False,False
+925,Flo,8,9,out,False,False,False,False,False,False,False
+926,Chris,8,9,out,False,False,False,False,False,False,False
+927,Peter,8,9,out,False,False,False,False,False,False,False
+928,Edd,1,9,,False,False,False,False,False,False,False
+929,Ruth,1,9,,False,False,False,False,False,False,False
+930,Miranda,1,9,,False,False,False,False,False,False,False
+931,Jasminder,1,9,,False,False,False,False,False,False,False
+932,David,1,9,,False,False,False,False,False,False,False
+933,Jonathan,1,9,,False,False,False,False,False,False,False
+934,Annetha,1,9,,False,False,False,False,False,False,False
+935,Louise,1,9,,False,False,False,False,False,False,False
+936,Lea,1,9,,False,False,False,False,False,False,False
+937,Mark,1,9,,False,False,False,False,False,False,False
+938,Nadiya,6,9,Baker was the Star Baker.,False,True,False,False,False,False,False
+939,Ian,6,9,"Baker was one of the judges' least favourite bakers that week, but was not eliminated.",False,False,False,False,True,False,False
+940,Tamal,6,9,"Baker was one of the judges' favourite bakers that week, but was not the Star Baker.",False,False,False,True,False,False,False
+941,Flora,6,9,Baker was eliminated.,True,False,False,False,False,False,False
+942,Paul,6,9,out,False,False,False,False,False,False,False
+943,Mat,6,9,out,False,False,False,False,False,False,False
+944,Alvin,6,9,out,False,False,False,False,False,False,False
+945,Ugnė,6,9,out,False,False,False,False,False,False,False
+946,Sandy,6,9,out,False,False,False,False,False,False,False
+947,Dorret,6,9,out,False,False,False,False,False,False,False
+948,Marie,6,9,out,False,False,False,False,False,False,False
+949,Stu,6,9,out,False,False,False,False,False,False,False

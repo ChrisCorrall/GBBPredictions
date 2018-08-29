@@ -1,0 +1,66 @@
+,Baker,Signature,Technical,Showstopper,episode_number,episode_theme,season
+0,Ali,Italian Grissini,9th,Sweet and Savoury Yin Yang Bread,1,_Cakes,4
+1,Beca,Fennel and Chilli Breadsticks,11th,Five Strand Christmas Wreath,1,_Cakes,4
+2,Christine,Mediterranean Breadsticks with Oregano,4th,Double Plaited Loaf,1,_Cakes,4
+3,Deborah,Fennel & Chilli Breadsticks,8th,Walnut Fleur Loaf,1,_Cakes,4
+4,Frances,Giant Matchsticks,2nd,Sailor's Knot,1,_Cakes,4
+5,Glenn,Rosemary and Parmesan Grissini,7th,Harvest Crown,1,_Cakes,4
+6,Howard,Moroccan Breadsticks,10th,Picasso Sun Bread,1,_Cakes,4
+7,Kimberley,Nigella Seed and Parmesan Breadsticks,1st,Peace Bread,1,_Cakes,4
+8,Lucy,Grissini with Salt,12th,Roast Tomato Bread,1,_Cakes,4
+9,Mark,Rosemary & Raisin Breadsticks,6th,Sage & Garlic Plait,1,_Cakes,4
+10,Robert,Twisty Rye Bread Sticks,5th,Tribute Loaf,1,_Cakes,4
+11,Ruby,Mexican Breadsticks,3rd,White Chocolate and Orange Peacock Bread,1,_Cakes,4
+0,Ali,"Coconut, Raspberry and Lemon Meringue Trifle",5th,Vanilla Latte Mini CakesLime & Mint Shortbread Pops,2,_Bread,4
+1,Beca,Orange and Ginger Trifle,10th,Limoncello and Blueberry BurstsMillionaire Shortbread,2,_Bread,4
+2,Christine,Caribbean Pina Colada Trifle,4th,Ninety-NinersSachertorte Parcels,2,_Bread,4
+3,Deborah,Tropical Trifle*,9th,Canelé Cherry and Chocolate CakesRose Cookies,2,_Bread,4
+4,Frances,Apple and Blackberry Crumble Trifle,8th,'Ballet Bites' Ginger NutcrackersSugar Plum Fairy Cakes,2,_Bread,4
+5,Glenn,Raspberry and Almond Trifle,1st,Billionaire BouchéesOrange Financiers,2,_Bread,4
+6,Howard,Caramel and Apple Trifle*,7th,Black Coffee and Cardamom CakesWhite Stilton and Pear Biscuits,2,_Bread,4
+7,Kimberley,"Peach, Almond and Ginger Trifle",6th,Chocolate Pistachio FinanciersLemon Bergamot Biscuits,2,_Bread,4
+8,Mark,"Ginger, Mango and Passion Fruit Trifle",11th,Rose and Pistachio MacaroonsChocolate and Raspberry Bites,2,_Bread,4
+9,Robert,Rhubarb and Orange Trifle,2nd,Almond FriandsTurǫn Macaroons,2,_Bread,4
+10,Ruby,Desert Island Trifle,3rd,Lemon Shortbread and White Chocolate SeashellsBlackberry and Chocolate Layer Cakes,2,_Bread,4
+0,Ali,Apple and Ginger Pie with a Pecan and Walnut Shortcrust Pastry,8th,"Orange, Cardamom and Date M'Hanncha",3,_Desserts,4
+1,Beca,Mamgu's Cherry-Apple Tart,2nd,Moroccan Vegetable Filo Feast,3,_Desserts,4
+2,Christine,"Granny Rogers' Apple, Plum & Cinnamon Country Pie",7th,Roasted Vegetable Filo Pie with Feta Cheese,3,_Desserts,4
+3,Frances,Peach Pie In the Sky,1st,Cherry Tree Baklava Filo Pie,3,_Desserts,4
+4,Glenn,Apple & Maple Syrup Pie,9th,Spanakopita (Walnut and Feta Cheese),3,_Desserts,4
+5,Howard,Apple Pie with Sage Pastry,5th,Fresh Fig and Feta Filo Flan,3,_Desserts,4
+6,Kimberley,Pecan and Rosemary Caramel Apple Pie,4th,"Chicken, Bacon and Butternut Squash Pie",3,_Desserts,4
+7,Robert,Apple and Pear Pie with Thyme,3rd,Spanakopita with St George's Mushrooms,3,_Desserts,4
+8,Ruby,Apple and Marzipan Pie,6th,"Rose, Almond and Raspberry Filo Pie",3,_Desserts,4
+0,Beca,"Chocolate, Cherry and Hazelnut Brownies",5th,Tiered Macaron and Sugar Dough Biscuit Centrepiece,4,_Pies_and_Tarts,4
+1,Christine,Mixed Berry and Almond Crumble Traybake,1st,Shortbread Bavarian Clock Tower,4,_Pies_and_Tarts,4
+2,Frances,Millionaire Banoffee Bonus,3rd,Biscuit Buttons and Beads,4,_Pies_and_Tarts,4
+3,Glenn,Apricot and Pistachio Tiffin,2nd,Shortbread and Macaron Helter-Skelter,4,_Pies_and_Tarts,4
+4,Howard,Breakfast Traybake,8th,Japanese Pagoda Tea Tower,4,_Pies_and_Tarts,4
+5,Kimberley,Cherry and Almond Bakewell Florentine Slice,7th,Black and White Viennese Biscuit Stack,4,_Pies_and_Tarts,4
+6,Robert,Blueberry & Orange Traybake,4th,Dalek,4,_Pies_and_Tarts,4
+7,Ruby,Blackberry and Lemon Bakewell Slice,6th,'Dropped Ice-Cream' Biscuit Centrepiece,4,_Pies_and_Tarts,4
+0,Beca,Bara Brith,6th,Chocolate and Rum-Soaked Prune BriochesCardamom Spiced Lemon Iced Buns,5,_Biscuits_and_Traybakes,4
+1,Christine,Oxford Nutty Fruit Loaf,4th,Schnecken BunsVanilla Custard Skolebrød,5,_Biscuits_and_Traybakes,4
+2,Frances,Chai Tea Loaf,2nd,Hot Cross BriochesRhubarb and Custard Kolaches,5,_Biscuits_and_Traybakes,4
+3,Glenn,Devonshire Panettone,5th,Almond and Apricot BriochesSticky Caramel Kanelbullen,5,_Biscuits_and_Traybakes,4
+4,Howard,Date & Hemp Yorkshire Loaf,7th,Peachy BunsGerman Baumschnecken,5,_Biscuits_and_Traybakes,4
+5,Kimberley,Chai Spiced Ginger and Date Tea Loaf,3rd,Double Chocolate and Hazelnut BriochesDanish Kanelsnurrer,5,_Biscuits_and_Traybakes,4
+6,Ruby,Citrus Tea Loaf,1st,Twisted Swedish KanelbullarSaffron St. Lucia Buns,5,_Biscuits_and_Traybakes,4
+0,Beca,Spring Lamb and Vegetable Suet Puddingwith Redcurrant Gravy,1st,Nectarine and Frangipane SquaresChocolate and Hazelnut Vol-au-ventsStrawberries and Cream Mille-feuille,6,_Sweet_Dough,4
+1,Christine,Spotted Dick 'With a Kick'and Vanilla Custard Ice Cream,6th,Eccles CakesFresh Fruit BasketsLemon Cream Eton Mess Mille-feuille,6,_Sweet_Dough,4
+2,Frances,Figgy Roll-y Poly Puddingwith Caramelised Walnut and Honey Ice-Cream,5th,French Framboise Cream HornsSheet Music Mille-feuilleBass Clef Palmiers,6,_Sweet_Dough,4
+3,Glenn,Prune and Armagnac Puddingwith Boozy Butterscotch Sauce,3rd,Caramelised Apple and Marzipan TartletsChocolate Elephant EarsPassion Fruit Mille-feuille,6,_Sweet_Dough,4
+4,Kimberley,Barberry and Apple Spotted Dickwith Maple Syrup and White Chocolate Custard,4th,"Pear, Malt and Butterscotch Mille-feuilleBlackberry and Lemon Verbena Crème Brûle Custard TartsFig, Orange and Thyme Galette",6,_Sweet_Dough,4
+5,Ruby,Plum Jam Roly-Polywith Ginger Ice cream,2nd,Raspberry and Passion Fruit Mille-feuilleCaramelised Apple LatticePortuguese Custard Tarts,6,_Sweet_Dough,4
+0,Beca,"Potato, Spelt and Rosemary Focaccia",4th,Spiced Butternut Squash and Pecan 'Cheese' Cake,7,_Pastry,4
+1,Christine,"Multi-Seeded Loaf with Pumpkin, Sesame and Sunflower Seeds",5th,Sweet Potato Guitar with Passion Fruit Icing and Marshmallow Fondant,7,_Pastry,4
+2,Frances,'Chelsea Flour Show' Bun Bouquet,3rd,"Hidden Carrot Cake (Ground Praline, Beetroot and Walnut)",7,_Pastry,4
+3,Kimberley,Wild Garlic Pesto and Parma Ham Spelt Loaf,2nd,Butternut Squash and Spice Cake Toadstool House,7,_Pastry,4
+4,Ruby,Mango and Nigella Seed Spelt Cob,1st,Carrot Cake and Pistachio Garden Plot,7,_Pastry,4
+0,Beca,Stilton and Walnut MacaronsBeetroot and Salmon Choux PuffsWelsh Rarebit Tartlets,3rd,Banoffee Opera Cake,8,_Unconventional_Ingredients_.28Quarter_Final.29,4
+1,Frances,Legume Canapés: Chantenay CarrotsChoux Pastry TomatoesCauliflower Cheese Scones,2nd,Great British Soap Opera Cake,8,_Unconventional_Ingredients_.28Quarter_Final.29,4
+2,Kimberley,Pea Purée TartsCrab and Wasabi ProfiterolesSteamed Buns with Barbecue Chicken,1st,Passion Fruit and Lime Opera Cake,8,_Unconventional_Ingredients_.28Quarter_Final.29,4
+3,Ruby,"Beetroot Jelly on Poppy Seed BiscuitsSpinach, Parmesan and Egg TartletsChoux Buns with Goat's Cheese and Caramelised Onions",4th,"Chocolate, Almond Praline and Saffron Opera Cake",8,_Unconventional_Ingredients_.28Quarter_Final.29,4
+0,Frances,Rainbow Picnic Pie,3rd,Midsummer Night's Dream Wedding Cake,9,_French_Pastry_.28Semi-Final.29,4
+1,Kimberley,Chicken and Pig Pie,1st,Languages of Love Wedding Cake,9,_French_Pastry_.28Semi-Final.29,4
+2,Ruby,Picnic Basket Pie,2nd,"Raspberry, Lemon and Passion Fruit Wedding Cake",9,_French_Pastry_.28Semi-Final.29,4

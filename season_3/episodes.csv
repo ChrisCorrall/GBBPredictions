@@ -1,0 +1,65 @@
+,Baker,Signature,Technical,Showstopper,episode_number,episode_theme,season
+0,Brendan,Middle Eastern Taboon BreadIndian Rotis,4th,Chocolate and Vanilla Bagels Cumin and Gruyere Bagels,1,_Cakes,3
+1,Cathryn,"Spiced Mango NaanLime, Coriander and Chilli Tortillas",8th,"Cranberry and Orange Bagels Chipotle, Chili, and Smoked Cheddar Bagels",1,_Cakes,3
+2,Danny,Lime Coriander and Coconut TortillasZaatar Naan with Dukkah,3rd,UNKNOWN,1,_Cakes,3
+3,James,"Tomato, Garlic, and Parmesan FlatbreadsTattie Scones",2nd,"Orange, Mint and Chocolate Bagels 'Millers' Sourdough Bagels",1,_Cakes,3
+4,John,"Coriander and Chilli RotisGarlic, Pomegranate and Potato Pitas",1st,"Fig, Walnut and Gruyere Bagels Blueberry and White Chocolate Bagels",1,_Cakes,3
+5,Manisha,Indian FlatbreadsItalian Flatbreads,6th,UNKNOWN,1,_Cakes,3
+6,Peter,Fennel and Nigella Seed NaanBannock Bread,11th,Rosemary and Sea Salt Bagels Apple and Cinnamon Bagels,1,_Cakes,3
+7,Ryan,Shanghai Spring Onion FlatbreadsGarlic and Coriander Naan,5th,Cinnamon and Date Bagels Tarragon and Rosemary Bagels,1,_Cakes,3
+8,Sarah-Jane,Toasted Coconut and Lime RotisOatcakes,10th,UNKNOWN,1,_Cakes,3
+9,Stuart,Bombay BreadChorizo and Spring Onion Naan,9th,Cinnamon and Cranberry Bagels Tomato and Thyme Bagels,1,_Cakes,3
+10,Victoria,Coriander and Lemon NaanGarlic and Parsnip Chapatis,7th,Saffron and Golden Raisin Bagels Porcini Bagels,1,_Cakes,3
+0,Brendan,Apple and Ginger Tarte Tatin,9th,"Blackberry, Nectarine and Dragon Fruit Tart",2,_Bread,3
+1,Cathryn,"Plum, Cherry and Five Spice Tarte Tatin",3rd,"Raspberry, Pistachio and Lemon Tart",2,_Bread,3
+2,Danny,Savoury Pear and Roquefort Tarte Tatin,2nd,"Pineapple, Coconut and Frangipane Tart",2,_Bread,3
+3,James,Apple and Lavender Tarte Tatin,1st,"Rose, Lychee and Raspberry Fruit Tart",2,_Bread,3
+4,John,Apple and Vanilla Tarte Tatin with Walnut Praline,6th,"Berries, Grapes, Pomegranate, and Dragon Fruit Tart",2,_Bread,3
+5,Manisha,"Cinnamon, Apple and Pear Tarte Tatin",10th,Rum and Tropical Fruit Tart,2,_Bread,3
+6,Ryan,Spiced Pear Tarte Tatin,5th,UNKNOWN,2,_Bread,3
+7,Sarah-Jane,Caramelised Banana Tarte Tatin,8th,French Apple Tart with Blackberry and Cassis Jam,2,_Bread,3
+8,Stuart,Pear and Almond Tarte Tatin,7th,Raspberry Triple Chocolate Layered Tart,2,_Bread,3
+9,Victoria,"Fig, Walnut and Pink Peppercorn Tarte Tatin",4th,Tropical Fruit Tart with Black Pepper Crust,2,_Bread,3
+0,Brendan,Clementine and Chestnut Torte,1st,"Pear, Chocolate and Hazelnut Dacquoise",3,_Tarts,3
+1,Cathryn,"White Chocolate, Macadamia and Coffee Torte",3rd,"Gooseberry, Almond and Honey Meringue",3,_Tarts,3
+2,Danny,"Blackberry, White Chocolate, Lemon and Elderflower Torte",2nd,"'Monte Bianco' Chestnut, Chocolate and Coffee Dacquoise",3,_Tarts,3
+3,James,"Hazelnut, Chocolate and Passionfruit Torte",5th,"Fig, Chestnut, Cherry and Chocolate Layered Meringue",3,_Tarts,3
+4,John,'Torte Noir' Black Forest Torte with Boozy Cream,6th,Elderflower and Bramble Berry Pavlova,3,_Tarts,3
+5,Manisha,"Almond, Chocolate and Cherry Torte",9th,Tiramisu Layered Meringue Dessert,3,_Tarts,3
+6,Ryan,Green Tea Opera Torte,7th,"Strawberry, Rose and Pistachio Meringue",3,_Tarts,3
+7,Sarah-Jane,Chocolate and Almond Truffle Torte,4th,Hazelnut Tiramisu Layered Meringue,3,_Tarts,3
+8,Stuart,Black Forest Torte,8th,Choca Blocka Mocha Meringue,3,_Tarts,3
+0,Brendan,Salmon Coulibiac in a Scandinavian Pastry,3rd,All American Chiffon Pie,4,_Desserts,3
+1,Cathryn,Full English Wellington,1st,Chocolate and Peanut Butter Pumpkin Pie,4,_Desserts,3
+2,Danny,"Chickpea, Spinach & Mushroom Wellington",7th,Trick or Treat Pumpkin Pie,4,_Desserts,3
+3,James,Four Pig Wellington,6th,Sweet Potato Pie,4,_Desserts,3
+4,John,Venison and Haggis Wellington,2nd,Star-Spangled Pecan Pie,4,_Desserts,3
+5,Manisha,Lamb Wellington with Rosemary and Mint,5th,Banana Scotch Pie,4,_Desserts,3
+6,Ryan,Curry Spiced Seabass Wellington,8th,Key Lime Pie,4,_Desserts,3
+7,Sarah-Jane,Beef Wellington with Parma Ham and Gorgonzola Cheese,4th,Chocolate and Banana Cream Pie,4,_Desserts,3
+0,Brendan,"Rhubarb, Strawberry and Ginger Puddings Sticky Toffee Puddings",1st,"Spinach, Cheese and Walnut Strudel",5,_Pies,3
+1,Cathryn,Chocolate Walnut Whip Puddings Elderflower Sponges,3rd,Roasted Vegetable Couscous and Sheep Cheese Strudel,5,_Pies,3
+2,Danny,Banoffee Puddings with Walnut Butterscotch SauceJubilee Chocolate Fondants,2nd,"Leek, Potato, Pistachio and Gruyère Strudel",5,_Pies,3
+3,James,Banana and Clove PuddingsClootie Dumplings,7th,"Strawberry, Rhubarb and Ginger Strudel",5,_Pies,3
+4,John,Spicy Toffee PuddingsRaspberry and White Chocolate Puddings,5th,Did not complete due to injury,5,_Pies,3
+5,Ryan,Chocolate FondantsSticky Ginger and Date Puddings,6th,"Apple, Sour Cherry, Raisin and Mixed Nuts Strudel",5,_Pies,3
+6,Sarah-Jane,Sticky Toffee PuddingsGranny's Saucy Lemon Puddings,4th,Sweet Strudel with Sour Cherries,5,_Pies,3
+0,Brendan,Chelsea Bunskis,4th,Black Forest Christmas Stollen,6,_Puddings,3
+1,Cathryn,Lady Arundel's Manchet Buns,5th,Bonfire Night Tear 'n' Share Brioche,6,_Puddings,3
+2,Danny,Bakewell Chelsea Buns,2nd,European Christmas Wreath,6,_Puddings,3
+3,James,Easter Chelsea Buns,1st,Whisky Kugelhopf-Brioche Baba,6,_Puddings,3
+4,John,Cherry and Almond Saffron Buns,3rd,Marzipan Stollen,6,_Puddings,3
+5,Ryan,Lardy Cakes,6th,Char Siu Bao,6,_Puddings,3
+6,Sarah-Jane,"Orange, Nutmeg and Saffron Buns",7th,Sour Cherry and Dark Chocolate Christmas Plait,6,_Puddings,3
+0,Brendan,Multi-Seed Savoury Crackers,2nd,Fantasy Gingerbread Bird House,7,_Sweet_dough,3
+1,Cathryn,Cheese and Pickle Crackers,5th,Gingerbread Buckingham Palace,7,_Sweet_dough,3
+2,Danny,Spiced Almond Drinks Crackers,4th,Gingerbread Big Ben,7,_Sweet_dough,3
+3,James,"Smoky Cayenne, Cumin and Chilli Crackers",1st,Gingerbread Barn,7,_Sweet_dough,3
+4,John,Asian Spice Crackers,3rd,Gingerbread Roman Coliseum,7,_Sweet_dough,3
+0,Brendan,Coffee Meringue and Hazelnut CreamsApricot and Pistachio FriandsLime Curd Choux Pastry Cygnets,3rd,Gateau St. Honoré,8,_Biscuits,3
+1,Danny,Blackberry and Peppermint MacaroonsMiniature Raspberry and Basil FinanciersOrange and White Chocolate Langues de Chat,4th,Rosewater and Lychee St. Honoré,8,_Biscuits,3
+2,James,"Lemon and Rhubarb TartletsChocolate Indulgence Petits FoursChilli, Lime and Raspberry Macaroons",1st,"Coffee, Caramel and Hazelnut Paris-Brest",8,_Biscuits,3
+3,John,Lemon MadeleinesWhite Chocolate and Raspberry TartletsDark Chocolate and Cherry Macaroons,2nd,Gateau St. Honoré a la Passion,8,_Biscuits,3
+0,Brendan,Potato and Pepper Pithivier,2nd,Family Reunion Chiffon Cake,9,_P.C3.A2tisserie_.28Semi-Final.29,3
+1,James,Spanish Pithivier with Chorizo and Red Pepper,1st,United Chiffon Cakes,9,_P.C3.A2tisserie_.28Semi-Final.29,3
+2,John,Italian Sausage and Roasted Vegetable Pithivier,2nd,Heaven and Hell Chiffon Cake,9,_P.C3.A2tisserie_.28Semi-Final.29,3
